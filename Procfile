@@ -1,1 +1,1 @@
-web: gunicorn mkdocs serve
+mkdocs serve
