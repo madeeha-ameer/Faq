@@ -1,1 +1,1 @@
-web: gunicorn mkdocs.yml --log-file -
+web: gunicorn mkdocs serve
