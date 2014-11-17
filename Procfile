@@ -1,1 +1,1 @@
-mkdocs serve
+web: mkdocs serve
